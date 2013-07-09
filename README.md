@@ -17,7 +17,7 @@ copy Middleman.sublime-build file into user packages directory
 
 or open **Tools** -> **Build System** -> **New build system**
 
-!(img.jpg)
+![menu](https://raw.github.com/recomp/middleman-sublime/master/img.jpg)
 
 and paste:
 ```
